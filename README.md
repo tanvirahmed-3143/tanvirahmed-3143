@@ -4,7 +4,7 @@
 
 # Tanvir Ahmed
 
-> Technical founder
+> Cyber Expert
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=tanvirahmed-3143&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F359888524%3Fu%3D0609bbcf634c523dd42e1353291f72217952788e%26v%3D4" alt="tanvirahmed-3143 hero visual" />
@@ -17,7 +17,7 @@
 > Building useful things and learning in public.
 
 - 🌐 [Website](https://tanvirahmed3143.netlify.app/)
-- 👥 **0** followers · **0** following
+- 👥 **1023** followers · **0** following
 
 *Small, useful work over vague claims.*
 
@@ -39,4 +39,4 @@ Public projects are being indexed.
 
 <a href="https://github.com/tanvirahmed-3143">GitHub</a> · <a href="https://tanvirahmed3143.netlify.app/">Website</a>
 
-<p align="center"><sub>Tanvir Ahmed · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Tanvir Ahmed · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">Tazzy</a></sub></p>
